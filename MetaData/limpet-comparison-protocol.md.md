@@ -67,8 +67,9 @@ The long-term dataset (2005 – 2022) below demonstrates the **rapid dominance o
 * **Breakpoint analysis** – detect regime shifts in % aliens.  
 * **Pearson r** – mean SST vs. % aliens (2005-2022).
 
-## 7  References
-1. Rilov G. *et al.* 2022. “Last snail standing? Thermal resilience of Mediterranean limpets.” **Biol Invasions** 24:1689–1705.  
-2. Vafidis D. *et al.* 2020. “Population characteristics of *P. caerulea*.” **Water** 12:1186.  
-3. Wolf B. & Rilov G. 2024. Poster: “Comparing Population Dynamics of Limpets…”  
+## 7  References  
+1. “Management priorities for marine invasive species.” *Science of the Total Environment* 688: 1028-1040. <https://www-sciencedirect-com.ezproxy.haifa.ac.il/science/article/pii/S0048969719328554>  
 
+2. “Bad neighbors? Niche overlap and asymmetric competition between native and Lessepsian limpets in the Eastern Mediterranean rocky intertidal.” *Marine Pollution Bulletin* 171: 112750. <https://www-sciencedirect-com.ezproxy.haifa.ac.il/science/article/pii/S0025326X21007372>  
+
+3. “Last snail standing? Superior thermal resilience of an alien tropical intertidal gastropod over natives in an ocean-warming hotspot.” *Biological Invasions*. <https://link-springer-com.ezproxy.haifa.ac.il/article/10.1007/s10530-022-02871-x>  
